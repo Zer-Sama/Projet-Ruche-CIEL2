@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DHT22Rasp", "DHT22Rasp\DHT22Rasp.vcxproj", "{B4EF33CA-84AD-4435-854D-800B519D6212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Debug|x64.ActiveCfg = Debug|x64
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Debug|x64.Build.0 = Debug|x64
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Debug|x86.Build.0 = Debug|Win32
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Release|x64.ActiveCfg = Release|x64
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Release|x64.Build.0 = Release|x64
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Release|x86.ActiveCfg = Release|Win32
+		{B4EF33CA-84AD-4435-854D-800B519D6212}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA00D97-9CE9-4C40-BF7C-6C08A01E4975}
+	EndGlobalSection
+EndGlobal
