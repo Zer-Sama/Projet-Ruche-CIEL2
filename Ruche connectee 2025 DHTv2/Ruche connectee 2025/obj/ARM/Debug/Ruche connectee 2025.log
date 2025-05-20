@@ -1,0 +1,1 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(160,5): error : Il n'existe aucune machine distante configurée pour les builds distantes. Configurez une machine via Outils | Options | Multiplateforme | Gestionnaire des connexions.
