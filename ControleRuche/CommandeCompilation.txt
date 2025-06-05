@@ -1,0 +1,3 @@
+g++ CGestioCame.cpp main.cpp -o Opencv -pthread `pkg-config --cflags --libs opencv4`
+g++ CGestioCame.cpp CFiles.cpp CSysteme.cpp CGPIO.cpp CAlerter.cpp main.cpp -o ControleRuche -lwiringPi -DDEBUG -pthread `pkg-config --cflags --libs opencv4'
+g++ CGestioCame.cpp CFiles.cpp CSysteme.cpp CGPIO.cpp CAlerter.cpp main.cpp -o ControleRuche -lwiringPi -DDEBUG -pthread -lhx711 -llgpio `pkg-config --cflags --libs opencv4`
